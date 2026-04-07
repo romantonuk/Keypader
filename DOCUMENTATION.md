@@ -2,7 +2,7 @@
 
 ## struct ISoftDriver_keypad
 DESCRIPTION : Simple driver interface for using button matrices.
-PLACEMENT : Inside keypader namespace.
+##### PLACEMENT : Inside keypader namespace.
 
 ## uint8_t isPressed(driver, coulumn, row)
 DESCRIPTION : Function to to check button state of the button.
