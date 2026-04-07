@@ -16,4 +16,4 @@
 
 ### Check this [example] for detailed usage.
 
-###### [example]: https://github.com/romantonuk/Keypader/blob/main/examples/CheckFor1stButton/checkFor1stButton.ino
+[example]: https://github.com/romantonuk/Keypader/blob/main/examples/CheckFor1stButton/checkFor1stButton.ino
