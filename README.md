@@ -1,9 +1,9 @@
 <!-- PROJECT SHIELDS -->
-[[Contributors]][contributors-url]
-[[Forks]][forks-url]
-[[Stargazers]][stars-url]
-[[Issues]][issues-url]
-[[Project License]][license]
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![License][license-shield]][license]
 
 
 <h3 align="center">Keypader</h3>
@@ -47,9 +47,14 @@ See [documentation] for more information.
 
 Distributed under the MIT licence. See [license] for more information.
 
+[contributors-shield]: https://img.shields.io/github/contributors/romantonuk/Keypader.svg?style=for-the-badge
 [contributors-url]: https://github.com/romantonuk/Keypader/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/romantonuk/Keypader.svg?style=for-the-badge
 [forks-url]: https://github.com/romantonuk/Keypader/network/members
+[stars-shield]: https://img.shields.io/github/stars/romantonuk/Keypader.svg?style=for-the-badge
 [stars-url]: https://github.com/romantonuk/Keypader/stargazers
+[issues-shield]: https://img.shields.io/github/issues/romantonuk/Keypader.svg?style=for-the-badge
 [issues-url]: https://github.com/romantonuk/Keypader/issues
+[license-shield]: https://img.shields.io/github/license/romantonuk/Keypader.svg?style=for-the-badge
 [license]: https://github.com/romantonuk/Keypader/blob/main/LICENSE
 [documentation]: https://github.com/romantonuk/Keypader/blob/main/DOCUMENTATION.md
