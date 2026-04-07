@@ -9,7 +9,7 @@
 <h3 align="center">Keypader</h3>
 
   <p align="center">
-    Library for using button matrices with microcontrollers.
+    Library for using button matrices with microcontrollers
   </p>
 </div>
 
